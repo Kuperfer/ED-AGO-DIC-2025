@@ -1,6 +1,6 @@
 # ED-AGO-DIC-2025
 Descripción general:
-Este repositorio reúne las prácticas y proyectos desarrollados a lo largo del curso "Estructura de Datos" por el Equipo 09. Contiene implementaciones en C de estructuras de datos, algoritmos y simulaciones (pilas, listas enlazadas, árboles, conversión y evaluación de expresiones, simulación de colas, algoritmos de ordenamiento, etc.). Está pensado como un portafolio técnico y como base para compilar, ejecutar y estudiar cada práctica de forma independiente.
+Este repositorio reúne las prácticas y proyectos desarrollados a lo largo del curso "Estructura de Datos" por Fernando Alonso Ku Pérez. Contiene implementaciones en C de estructuras de datos, algoritmos y simulaciones (pilas, listas enlazadas, árboles, conversión y evaluación de expresiones, simulación de colas, algoritmos de ordenamiento, etc.). Está pensado como un portafolio técnico y como base para compilar, ejecutar y estudiar cada práctica de forma independiente.
 
 Proyectos incluidos:
 - Conversor Infijo a Postfijo y Evaluador Convierte expresiones aritméticas infijas a notación postfija y evalúa el resultado; entrada por archivo y salida en exp_postfijas.txt.
@@ -26,8 +26,5 @@ Requisitos y compilación:
 - Notas: Asegúrate de colocar los archivos de entrada (por ejemplo exp_infijas.txt, Movies.csv) en el mismo directorio del ejecutable según lo indique cada práctica.
 
 
-Contribuir y contacto:
-- Cómo contribuir: crea una rama por equipo (E0n-nombre), añade tu carpeta E0n_algoritmo, haz commits claros y abre un pull request hacia la rama principal. Sigue las convenciones de estilo y documenta cambios en el README de la carpeta.
-
-- Contacto del equipo: - C. Ku Perez Fernando Alonso — a24216429@alumnos.uady.mx
-                        - C. Rodríguez Sánchez Gerardo Israel — a19200922@alumnos.uady.mx
+Contacto:
+- C. Ku Perez Fernando Alonso — a24216429@alumnos.uady.mx
